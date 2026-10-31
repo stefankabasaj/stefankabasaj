@@ -17,7 +17,7 @@ I like understanding the product as well as the code: who uses it, what they nee
 ### Core stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,react,git&amp;theme=dark" alt="Java, Spring Boot, PostgreSQL, Docker, React and Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,idea,postman,react,vercel&amp;theme=dark" alt="Java, Spring Boot, PostgreSQL, Docker, Git, GitHub, IntelliJ IDEA, Postman, React and Vercel" width="480" />
 </p>
 
 **Java 21 · Spring Boot · PostgreSQL · Docker · REST APIs**  
