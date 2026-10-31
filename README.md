@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/header.svg" alt="Stefan Kabasaj — Backend &amp; AI Engineer" width="100%" />
+  <img src="./assets/header.svg?v=2" alt="Stefan Kabasaj — Backend &amp; AI Engineer" width="100%" />
 </p>
 
 [Portfolio](https://stefankabasaj.me) &nbsp; / &nbsp; [Selected repositories](https://github.com/stefankabasaj?tab=repositories)
