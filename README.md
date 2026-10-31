@@ -1,6 +1,7 @@
 <p>
-  <img src="https://raw.githubusercontent.com/stefankabasaj/stefankabasaj/311809e94cb58ba97c440cb08bc1d6f4069f5f35/assets/header.svg" alt="Stefan Kabasaj — Backend &amp; AI Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/stefankabasaj/stefankabasaj/cf14b4c505456ac387099ee4f0e6f65712cf3f50/assets/header.svg" alt="Stefan Kabasaj — Software Engineering, Applied AI and Product" width="100%" />
 </p>
+
 
 <p>
   <a href="https://stefankabasaj.me"><strong>Portfolio ↗</strong></a>
@@ -8,22 +9,30 @@
   <a href="https://github.com/stefankabasaj?tab=repositories">Repositories</a>
 </p>
 
+
 <br />
+
 
 I build backend software with **Java and Spring Boot**, and work on practical applications of AI.
 
+
 I like understanding the product as well as the code: who uses it, what they need, and which technical decisions actually matter. I care about clear APIs and software that stays manageable as it grows.
 
+
 ### Core stack
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,idea,postman,react,vercel&amp;theme=dark" alt="Java, Spring Boot, PostgreSQL, Docker, Git, GitHub, IntelliJ IDEA, Postman, React and Vercel" width="480" />
 </p>
 
+
 **Java 21 · Spring Boot · PostgreSQL · Docker · REST APIs**  
 Also working with Flyway, JWT, React, Postman and IntelliJ IDEA.
 
+
 ### Selected work
+
 
 <table>
   <tr>
@@ -42,10 +51,15 @@ Also working with Flyway, JWT, React, Postman and IntelliJ IDEA.
   </tr>
 </table>
 
+
 ### Beyond the code
+
 
 I played NCAA Division I tennis at Sacramento State and now study Business and Information Technology at the University of Memphis.
 
+
 ---
 
+
 <p><a href="https://stefankabasaj.me"><strong>stefankabasaj.me ↗</strong></a> &nbsp; <sub>More about my work and background.</sub></p>
+
