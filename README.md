@@ -31,13 +31,13 @@ Also working with Flyway, JWT, React, Postman and IntelliJ IDEA.
       <p><sub>PERSONAL WEBSITE</sub></p>
       <h3>Portfolio</h3>
       <p>My work, projects and background in one place.</p>
-      <p><a href="https://stefankabasaj.me"><strong>Visit website ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/stefankabasaj/Stefan-Kabasaj-Portfolio">Source</a></p>
+      <p><a href="https://stefankabasaj.me"><strong>Visit website ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/stefankabasaj/portfolio">Source</a></p>
     </td>
     <td width="50%" valign="top">
       <p><sub>PERSONAL PROJECT</sub></p>
       <h3>Courtly</h3>
       <p>A tennis booking application, combining software with a sport I know well.</p>
-      <p>Tennis &nbsp; / &nbsp; Booking</p>
+      <p>Backend &nbsp; / &nbsp; Private source</p>
     </td>
   </tr>
 </table>
