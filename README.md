@@ -1,71 +1,33 @@
-<!-- PROFILE README • github.com/stefankabasaj -->
-
-<p align="center">
+<p>
   <img src="./assets/header.svg" alt="Stefan Kabasaj — Backend &amp; AI Engineer" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://stefankabasaj.me">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-5B7CFA?style=for-the-badge&amp;labelColor=101725&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/stefankabasaj?tab=repositories">
-    <img src="https://img.shields.io/badge/GITHUB-View%20repositories-26364E?style=for-the-badge&amp;labelColor=101725&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" />
-  </a>
-</p>
+[Portfolio](https://stefankabasaj.me) &nbsp; / &nbsp; [Selected repositories](https://github.com/stefankabasaj?tab=repositories)
 
-### About
+<br />
 
-I’m a **Backend & AI Engineer** focused on designing reliable backend services, clear APIs, and practical AI-enabled software.
+I build backend software with **Java and Spring Boot**, and work on practical applications of AI.
 
-I care about clean architecture, maintainable code, and building products that solve real problems.
+I like understanding how a product works beyond the code: who uses it, what they need, and which technical decisions actually matter. My focus is on clear APIs, sensible architecture, and software that is easy to maintain.
 
-### Tech stack
+### Tools I work with
 
-**Core engineering**
+**Java 21 · Spring Boot · PostgreSQL · Docker · REST APIs**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github&amp;theme=dark" alt="Java, Spring, PostgreSQL, Docker, Git, GitHub" />
-</p>
-
-**Development tools & frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,postman,react,vercel&amp;theme=dark" alt="IntelliJ IDEA, Postman, React, Vercel" />
-</p>
-
-**What I work with**
-
-`Java 21` · `Spring Boot 3` · `REST APIs` · `PostgreSQL` · `Docker` · `Git` · `AI-assisted solutions`
+Git, Flyway, JWT, Postman and IntelliJ IDEA. I also use React when a project needs a frontend.
 
 ### Selected work
 
-<table>
-  <tr>
-    <td width="52%" valign="top">
-      <strong>Stefan Kabasaj — Portfolio</strong><br/>
-      Personal engineering portfolio and project showcase.<br/><br/>
-      <a href="https://github.com/stefankabasaj/Stefan-Kabasaj-Portfolio">Repository</a> · <a href="https://stefankabasaj.me">Website</a>
-    </td>
-    <td width="48%" valign="top">
-      <strong>Courtly</strong><br/>
-      A tennis booking application — bringing scheduling and software engineering together.<br/><br/>
-      <em>Personal project</em>
-    </td>
-  </tr>
-</table>
+**[Personal portfolio](https://stefankabasaj.me)**  
+A closer look at my work and background. [View source](https://github.com/stefankabasaj/Stefan-Kabasaj-Portfolio).
 
-### Engineering approach
+**Courtly**  
+A personal tennis booking application, combining my software work with a sport I know well.
 
-- **Backend first:** well-structured services, clear API contracts, and sensible data models.
-- **Practical AI:** use AI where it creates meaningful value, not complexity for its own sake.
-- **Product thinking:** balance technical quality with real user needs.
+### A little background
+
+I played NCAA Division I tennis at Sacramento State and now study Business and Information Technology at the University of Memphis.
 
 ---
 
-<p align="center">
-  <strong>Have a project in mind?</strong><br/>
-  <a href="https://stefankabasaj.me">Visit my portfolio</a> · <a href="https://github.com/stefankabasaj">Connect on GitHub</a>
-</p>
-
-<!-- Add a LinkedIn or business email link here only if you want it shown publicly. -->
+For more about my work, visit **[stefankabasaj.me](https://stefankabasaj.me)**.
