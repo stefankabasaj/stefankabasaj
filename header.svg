@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="308" viewBox="0 0 1200 308" role="img" aria-label="Stefan Kabasaj — Backend and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0C1118"/>
+      <stop offset="1" stop-color="#101725"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B7CFA"/>
+      <stop offset="1" stop-color="#7E96FF"/>
+    </linearGradient>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+      <path d="M 54 0 L 0 0 0 54" fill="none" stroke="#A9B9D7" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="308" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="308" rx="18" fill="url(#grid)"/>
+  <path d="M 0 0 H 1200" stroke="#25324A" stroke-width="1"/>
+  <rect x="68" y="59" width="32" height="4" rx="2" fill="url(#accent)"/>
+  <text x="68" y="104" fill="#8B9BB1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="5">SOFTWARE ENGINEERING</text>
+  <text x="65" y="179" fill="#F3F6FB" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="bold" letter-spacing="2">STEFAN KABASAJ</text>
+  <text x="68" y="227" fill="#C5CFDE" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1">Backend &amp; AI Engineer</text>
+  <text x="68" y="266" fill="#7F8DA3" font-family="Arial, Helvetica, sans-serif" font-size="16">BUILDING RELIABLE SYSTEMS. MAKING COMPLEX THINGS SIMPLE.</text>
+  <g fill="none" stroke="#5B7CFA" stroke-width="1.4" opacity=".23">
+    <path d="M 930 62 L 1049 62 L 1093 106 L 1161 106"/>
+    <path d="M 882 110 L 972 110 L 1033 171 L 1164 171"/>
+    <path d="M 943 246 L 1034 246 L 1090 204 L 1163 204"/>
+    <path d="M 1010 39 L 1054 39 L 1109 82"/>
+  </g>
+  <g fill="#5B7CFA" opacity=".72">
+    <circle cx="930" cy="62" r="4"/><circle cx="1161" cy="106" r="4"/>
+    <circle cx="882" cy="110" r="4"/><circle cx="1164" cy="171" r="4"/>
+    <circle cx="943" cy="246" r="4"/><circle cx="1163" cy="204" r="4"/>
+  </g>
+  <path d="M 68 290 H 1132" stroke="#26364E" stroke-width="1"/>
+</svg>
