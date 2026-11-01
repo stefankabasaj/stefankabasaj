@@ -1,33 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-  <title id="title">Stefan Kabasaj — Software Engineer · Backend &amp; AI</title>
-  <desc id="desc">Bold ivory typography on midnight blue, with three finely drawn architectural layers in blue.</desc>
-  <defs>
-    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0B1018"/><stop offset="1" stop-color="#111D30"/></linearGradient>
-    <radialGradient id="light"><stop stop-color="#5B7CFA" stop-opacity=".16"/><stop offset="1" stop-color="#5B7CFA" stop-opacity="0"/></radialGradient>
-    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#8DA4FF"/><stop offset="1" stop-color="#5B7CFA" stop-opacity=".28"/></linearGradient>
-  </defs>
-  <rect width="1200" height="400" rx="12" fill="url(#background)"/>
-  <ellipse cx="959" cy="190" rx="265" ry="220" fill="url(#light)"/>
-  <path d="M64 57h26" stroke="#5B7CFA" stroke-width="3"/>
-  <text x="104" y="62" fill="#A0AEC3" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">SELECTED WORK</text>
-  <g fill="#F4F6FA" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">
-    <text x="60" y="160">STEFAN</text>
-    <text x="60" y="242">KABASAJ</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+  <title id="title">Stefan Kabasaj — Software Engineer</title>
+  <desc id="desc">An editorial cover in White Cat blue, near-black and white. Backend engineering and applied AI.</desc>
+  <rect width="1440" height="480" fill="#5B7CFA"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="65" fill="#171B23" font-size="15" font-weight="400" letter-spacing="2.6">PERSONAL PORTFOLIO</text>
+    <text x="1368" y="65" text-anchor="end" fill="#171B23" font-size="15" font-weight="400" letter-spacing="1.4">BACKEND / APPLIED AI</text>
+    <text x="66" y="218" fill="#171B23" font-size="116" font-weight="700" letter-spacing="-5.5">STEFAN KABASAJ.</text>
+    <text x="66" y="328" fill="#F7F9FC" font-size="106" font-weight="700" letter-spacing="-5">SOFTWARE ENGINEER.</text>
+    <path d="M72 408H1368" stroke="#171B23" stroke-opacity=".22" stroke-width="1"/>
+    <text x="72" y="446" fill="#171B23" font-size="16" font-weight="400" letter-spacing=".8">JAVA / SPRING / SYSTEMS</text>
+    <text x="1368" y="446" text-anchor="end" fill="#171B23" font-size="17" font-weight="400">stefankabasaj.me</text>
   </g>
-  <text x="64" y="291" fill="#B4C0D2" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".4">Software Engineer · Backend &amp; AI</text>
-  <g fill="none" stroke-linejoin="round">
-    <path d="M793 209 961 125 1129 209 961 293Z" stroke="#385387" stroke-width="1"/>
-    <path d="M793 173 961 89 1129 173 961 257Z" stroke="#5271B6" stroke-width="1.2"/>
-    <path d="M793 137 961 53 1129 137 961 221Z" fill="#5B7CFA" fill-opacity=".055" stroke="url(#edge)" stroke-width="1.5"/>
-    <path d="M793 137v72M1129 137v72M961 221v72" stroke="#5B7CFA" stroke-opacity=".4" stroke-width="1"/>
-    <path d="M877 179 1045 95M877 95 1045 179" stroke="#6E8AE6" stroke-opacity=".2"/>
-    <path d="M961 53V30M1129 137h27M793 137h-27" stroke="#637DAF" stroke-opacity=".45"/>
-  </g>
-  <g fill="#8DA4FF"><circle cx="793" cy="137" r="3"/><circle cx="1129" cy="137" r="3"/><circle cx="961" cy="221" r="3"/></g>
-  <path d="M64 335h1072" stroke="#2B384E"/>
-  <text x="64" y="370" fill="#7F91AC" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">JAVA / SPRING / SYSTEMS</text>
-  <text x="1136" y="370" text-anchor="end" fill="#A6B5CC" font-family="Arial, Helvetica, sans-serif" font-size="15">stefankabasaj.me</text>
 </svg>
-
-
-
