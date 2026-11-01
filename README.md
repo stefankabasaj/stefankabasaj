@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/stefankabasaj/stefankabasaj/261c73476a6c2f3515a50cb2e247f45fb28c5e1f/assets/header.svg" alt="Stefan Kabasaj — Software Engineer" width="100%" />
+  <img src="./assets/header-cloud.png" alt="Stefan Kabasaj — Software Engineer" width="100%" />
 </p>
 
 <p>
