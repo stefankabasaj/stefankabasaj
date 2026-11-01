@@ -37,7 +37,7 @@ Supporting tools: Flyway, JWT, React, Git, GitHub, Postman, IntelliJ IDEA and Ve
       <p><sub>TENNIS BOOKING API</sub></p>
       <h3>Courtly</h3>
       <p>A backend for tennis court reservations, user accounts and booking management.</p>
-      <p>Java · Spring Boot · PostgreSQL<br /><sub>Private repository</sub></p>
+      <p>Java · Spring Boot · PostgreSQL<br /><a href="https://github.com/stefankabasaj/Courtly">View code ↗</a></p>
     </td>
   </tr>
 </table>
