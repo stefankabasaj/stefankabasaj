@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-  <title id="title">Stefan Kabasaj — Software Engineering · Applied AI · Product</title>
+  <title id="title">Stefan Kabasaj — Software Engineer · Backend &amp; AI</title>
   <desc id="desc">Bold ivory typography on midnight blue, with three finely drawn architectural layers in blue.</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0B1018"/><stop offset="1" stop-color="#111D30"/></linearGradient>
@@ -9,12 +9,12 @@
   <rect width="1200" height="400" rx="12" fill="url(#background)"/>
   <ellipse cx="959" cy="190" rx="265" ry="220" fill="url(#light)"/>
   <path d="M64 57h26" stroke="#5B7CFA" stroke-width="3"/>
-  <text x="104" y="62" fill="#A0AEC3" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">SELECTED WORK &amp; PERSONAL PROJECTS</text>
+  <text x="104" y="62" fill="#A0AEC3" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">SELECTED WORK</text>
   <g fill="#F4F6FA" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">
     <text x="60" y="160">STEFAN</text>
     <text x="60" y="242">KABASAJ</text>
   </g>
-  <text x="64" y="291" fill="#B4C0D2" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".4">Software Engineering · Applied AI · Product</text>
+  <text x="64" y="291" fill="#B4C0D2" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".4">Software Engineer · Backend &amp; AI</text>
   <g fill="none" stroke-linejoin="round">
     <path d="M793 209 961 125 1129 209 961 293Z" stroke="#385387" stroke-width="1"/>
     <path d="M793 173 961 89 1129 173 961 257Z" stroke="#5271B6" stroke-width="1.2"/>
@@ -28,4 +28,6 @@
   <text x="64" y="370" fill="#7F91AC" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">JAVA / SPRING / SYSTEMS</text>
   <text x="1136" y="370" text-anchor="end" fill="#A6B5CC" font-family="Arial, Helvetica, sans-serif" font-size="15">stefankabasaj.me</text>
 </svg>
+
+
 
